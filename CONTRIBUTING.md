@@ -1,6 +1,6 @@
 # Contributing
 
-Bitte sende eine Email an: lieblings_kollege@firma.com
+sende eine Email an: lieblings_kollege@firma.com
 
 ## Automatic Rejection
 
