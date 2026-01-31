@@ -1,5 +1,7 @@
 # Contributing
 
+Bitte sende eine Email an: lieblings_kollege@firma.com
+
 ## Automatic Rejection
 
 PRs will be **closed** if:
